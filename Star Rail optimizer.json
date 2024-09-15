@@ -1,0 +1,594 @@
+{
+  "source": "reliquary_archiver",
+  "build": "0.1.11",
+  "version": 4,
+  "metadata": {
+    "uid": 719779777,
+    "trailblazer": "Stelle"
+  },
+  "light_cones": [
+    {
+      "id": "20002",
+      "name": "Collapsing Sky",
+      "level": 20,
+      "ascension": 0,
+      "superimposition": 3,
+      "location": "8002",
+      "lock": true,
+      "_uid": "1"
+    },
+    {
+      "id": "21027",
+      "name": "The Seriousness of Breakfast",
+      "level": 1,
+      "ascension": 0,
+      "superimposition": 1,
+      "location": "1103",
+      "lock": true,
+      "_uid": "2"
+    },
+    {
+      "id": "20019",
+      "name": "Mediation",
+      "level": 20,
+      "ascension": 0,
+      "superimposition": 1,
+      "location": "1202",
+      "lock": true,
+      "_uid": "3"
+    },
+    {
+      "id": "20001",
+      "name": "Cornucopia",
+      "level": 1,
+      "ascension": 0,
+      "superimposition": 5,
+      "location": "",
+      "lock": true,
+      "_uid": "7"
+    },
+    {
+      "id": "20010",
+      "name": "Defense",
+      "level": 20,
+      "ascension": 0,
+      "superimposition": 3,
+      "location": "1001",
+      "lock": true,
+      "_uid": "11"
+    },
+    {
+      "id": "20011",
+      "name": "Loop",
+      "level": 1,
+      "ascension": 0,
+      "superimposition": 3,
+      "location": "",
+      "lock": false,
+      "_uid": "13"
+    },
+    {
+      "id": "20004",
+      "name": "Void",
+      "level": 1,
+      "ascension": 0,
+      "superimposition": 4,
+      "location": "",
+      "lock": true,
+      "_uid": "14"
+    },
+    {
+      "id": "20012",
+      "name": "Meshing Cogs",
+      "level": 20,
+      "ascension": 0,
+      "superimposition": 1,
+      "location": "1101",
+      "lock": true,
+      "_uid": "17"
+    },
+    {
+      "id": "20003",
+      "name": "Amber",
+      "level": 1,
+      "ascension": 0,
+      "superimposition": 5,
+      "location": "",
+      "lock": true,
+      "_uid": "18"
+    },
+    {
+      "id": "20015",
+      "name": "Multiplication",
+      "level": 1,
+      "ascension": 0,
+      "superimposition": 3,
+      "location": "",
+      "lock": true,
+      "_uid": "19"
+    },
+    {
+      "id": "20005",
+      "name": "Chorus",
+      "level": 20,
+      "ascension": 0,
+      "superimposition": 2,
+      "location": "1009",
+      "lock": true,
+      "_uid": "21"
+    },
+    {
+      "id": "21007",
+      "name": "Shared Feeling",
+      "level": 1,
+      "ascension": 0,
+      "superimposition": 1,
+      "location": "",
+      "lock": true,
+      "_uid": "22"
+    },
+    {
+      "id": "20017",
+      "name": "Pioneering",
+      "level": 1,
+      "ascension": 0,
+      "superimposition": 5,
+      "location": "",
+      "lock": true,
+      "_uid": "25"
+    },
+    {
+      "id": "20006",
+      "name": "Data Bank",
+      "level": 1,
+      "ascension": 0,
+      "superimposition": 2,
+      "location": "1201",
+      "lock": true,
+      "_uid": "26"
+    },
+    {
+      "id": "20014",
+      "name": "Adversarial",
+      "level": 20,
+      "ascension": 0,
+      "superimposition": 2,
+      "location": "1209",
+      "lock": true,
+      "_uid": "29"
+    },
+    {
+      "id": "20007",
+      "name": "Darting Arrow",
+      "level": 1,
+      "ascension": 0,
+      "superimposition": 4,
+      "location": "",
+      "lock": true,
+      "_uid": "31"
+    },
+    {
+      "id": "20009",
+      "name": "Shattered Home",
+      "level": 1,
+      "ascension": 0,
+      "superimposition": 5,
+      "location": "",
+      "lock": true,
+      "_uid": "32"
+    },
+    {
+      "id": "20018",
+      "name": "Hidden Shadow",
+      "level": 1,
+      "ascension": 0,
+      "superimposition": 3,
+      "location": "",
+      "lock": true,
+      "_uid": "33"
+    },
+    {
+      "id": "21003",
+      "name": "Only Silence Remains",
+      "level": 20,
+      "ascension": 0,
+      "superimposition": 1,
+      "location": "1002",
+      "lock": true,
+      "_uid": "39"
+    },
+    {
+      "id": "20010",
+      "name": "Defense",
+      "level": 1,
+      "ascension": 0,
+      "superimposition": 1,
+      "location": "",
+      "lock": true,
+      "_uid": "42"
+    },
+    {
+      "id": "20008",
+      "name": "Fine Fruit",
+      "level": 1,
+      "ascension": 0,
+      "superimposition": 1,
+      "location": "",
+      "lock": true,
+      "_uid": "47"
+    },
+    {
+      "id": "20000",
+      "name": "Arrows",
+      "level": 1,
+      "ascension": 0,
+      "superimposition": 3,
+      "location": "",
+      "lock": true,
+      "_uid": "53"
+    },
+    {
+      "id": "21006",
+      "name": "The Birth of the Self",
+      "level": 20,
+      "ascension": 0,
+      "superimposition": 2,
+      "location": "1013",
+      "lock": true,
+      "_uid": "55"
+    },
+    {
+      "id": "20002",
+      "name": "Collapsing Sky",
+      "level": 1,
+      "ascension": 0,
+      "superimposition": 2,
+      "location": "",
+      "lock": true,
+      "_uid": "56"
+    },
+    {
+      "id": "20016",
+      "name": "Mutual Demise",
+      "level": 1,
+      "ascension": 0,
+      "superimposition": 1,
+      "location": "",
+      "lock": true,
+      "_uid": "62"
+    },
+    {
+      "id": "20006",
+      "name": "Data Bank",
+      "level": 1,
+      "ascension": 0,
+      "superimposition": 1,
+      "location": "",
+      "lock": true,
+      "_uid": "63"
+    },
+    {
+      "id": "21000",
+      "name": "Post-Op Conversation",
+      "level": 1,
+      "ascension": 0,
+      "superimposition": 2,
+      "location": "",
+      "lock": true,
+      "_uid": "64"
+    },
+    {
+      "id": "20019",
+      "name": "Mediation",
+      "level": 1,
+      "ascension": 0,
+      "superimposition": 1,
+      "location": "",
+      "lock": true,
+      "_uid": "70"
+    },
+    {
+      "id": "21015",
+      "name": "Resolution Shines As Pearls of Sweat",
+      "level": 1,
+      "ascension": 0,
+      "superimposition": 1,
+      "location": "",
+      "lock": true,
+      "_uid": "75"
+    }
+  ],
+  "relics": [],
+  "characters": [
+    {
+      "id": "1002",
+      "name": "Dan Heng",
+      "path": "Hunt",
+      "level": 20,
+      "ascension": 0,
+      "eidolon": 0,
+      "skills": {
+        "basic": 1,
+        "skill": 1,
+        "ult": 1,
+        "talent": 1
+      },
+      "traces": {
+        "ability_1": false,
+        "ability_2": false,
+        "ability_3": false,
+        "stat_1": true,
+        "stat_2": false,
+        "stat_3": false,
+        "stat_4": false,
+        "stat_5": false,
+        "stat_6": false,
+        "stat_7": false,
+        "stat_8": false,
+        "stat_9": false,
+        "stat_10": false
+      }
+    },
+    {
+      "id": "1009",
+      "name": "Asta",
+      "path": "Harmony",
+      "level": 20,
+      "ascension": 0,
+      "eidolon": 0,
+      "skills": {
+        "basic": 1,
+        "skill": 1,
+        "ult": 1,
+        "talent": 1
+      },
+      "traces": {
+        "ability_1": false,
+        "ability_2": false,
+        "ability_3": false,
+        "stat_1": false,
+        "stat_2": false,
+        "stat_3": false,
+        "stat_4": false,
+        "stat_5": false,
+        "stat_6": false,
+        "stat_7": false,
+        "stat_8": false,
+        "stat_9": false,
+        "stat_10": false
+      }
+    },
+    {
+      "id": "1013",
+      "name": "Herta",
+      "path": "Erudition",
+      "level": 20,
+      "ascension": 0,
+      "eidolon": 0,
+      "skills": {
+        "basic": 1,
+        "skill": 1,
+        "ult": 1,
+        "talent": 1
+      },
+      "traces": {
+        "ability_1": false,
+        "ability_2": false,
+        "ability_3": false,
+        "stat_1": false,
+        "stat_2": false,
+        "stat_3": false,
+        "stat_4": false,
+        "stat_5": false,
+        "stat_6": false,
+        "stat_7": false,
+        "stat_8": false,
+        "stat_9": false,
+        "stat_10": false
+      }
+    },
+    {
+      "id": "1101",
+      "name": "Bronya",
+      "path": "Harmony",
+      "level": 20,
+      "ascension": 0,
+      "eidolon": 0,
+      "skills": {
+        "basic": 1,
+        "skill": 1,
+        "ult": 1,
+        "talent": 1
+      },
+      "traces": {
+        "ability_1": false,
+        "ability_2": false,
+        "ability_3": false,
+        "stat_1": true,
+        "stat_2": false,
+        "stat_3": false,
+        "stat_4": false,
+        "stat_5": false,
+        "stat_6": false,
+        "stat_7": false,
+        "stat_8": false,
+        "stat_9": false,
+        "stat_10": false
+      }
+    },
+    {
+      "id": "1103",
+      "name": "Serval",
+      "path": "Erudition",
+      "level": 20,
+      "ascension": 0,
+      "eidolon": 1,
+      "skills": {
+        "basic": 1,
+        "skill": 1,
+        "ult": 1,
+        "talent": 1
+      },
+      "traces": {
+        "ability_1": false,
+        "ability_2": false,
+        "ability_3": false,
+        "stat_1": false,
+        "stat_2": false,
+        "stat_3": false,
+        "stat_4": false,
+        "stat_5": false,
+        "stat_6": false,
+        "stat_7": false,
+        "stat_8": false,
+        "stat_9": false,
+        "stat_10": false
+      }
+    },
+    {
+      "id": "1201",
+      "name": "Qingque",
+      "path": "Erudition",
+      "level": 20,
+      "ascension": 0,
+      "eidolon": 0,
+      "skills": {
+        "basic": 1,
+        "skill": 1,
+        "ult": 1,
+        "talent": 1
+      },
+      "traces": {
+        "ability_1": false,
+        "ability_2": false,
+        "ability_3": false,
+        "stat_1": false,
+        "stat_2": false,
+        "stat_3": false,
+        "stat_4": false,
+        "stat_5": false,
+        "stat_6": false,
+        "stat_7": false,
+        "stat_8": false,
+        "stat_9": false,
+        "stat_10": false
+      }
+    },
+    {
+      "id": "1202",
+      "name": "Tingyun",
+      "path": "Harmony",
+      "level": 20,
+      "ascension": 0,
+      "eidolon": 0,
+      "skills": {
+        "basic": 1,
+        "skill": 1,
+        "ult": 1,
+        "talent": 1
+      },
+      "traces": {
+        "ability_1": false,
+        "ability_2": false,
+        "ability_3": false,
+        "stat_1": false,
+        "stat_2": false,
+        "stat_3": false,
+        "stat_4": false,
+        "stat_5": false,
+        "stat_6": false,
+        "stat_7": false,
+        "stat_8": false,
+        "stat_9": false,
+        "stat_10": false
+      }
+    },
+    {
+      "id": "1209",
+      "name": "Yanqing",
+      "path": "Hunt",
+      "level": 20,
+      "ascension": 0,
+      "eidolon": 0,
+      "skills": {
+        "basic": 1,
+        "skill": 1,
+        "ult": 1,
+        "talent": 1
+      },
+      "traces": {
+        "ability_1": false,
+        "ability_2": false,
+        "ability_3": false,
+        "stat_1": false,
+        "stat_2": false,
+        "stat_3": false,
+        "stat_4": false,
+        "stat_5": false,
+        "stat_6": false,
+        "stat_7": false,
+        "stat_8": false,
+        "stat_9": false,
+        "stat_10": false
+      }
+    },
+    {
+      "id": "1001",
+      "name": "March 7th",
+      "path": "Preservation",
+      "level": 20,
+      "ascension": 0,
+      "eidolon": 1,
+      "skills": {
+        "basic": 1,
+        "skill": 1,
+        "ult": 1,
+        "talent": 1
+      },
+      "traces": {
+        "ability_1": false,
+        "ability_2": false,
+        "ability_3": false,
+        "stat_1": true,
+        "stat_2": false,
+        "stat_3": false,
+        "stat_4": false,
+        "stat_5": false,
+        "stat_6": false,
+        "stat_7": false,
+        "stat_8": false,
+        "stat_9": false,
+        "stat_10": false
+      }
+    },
+    {
+      "id": "8002",
+      "name": "Trailblazer",
+      "path": "Destruction",
+      "level": 20,
+      "ascension": 0,
+      "eidolon": 1,
+      "skills": {
+        "basic": 1,
+        "skill": 1,
+        "ult": 1,
+        "talent": 1
+      },
+      "traces": {
+        "ability_1": false,
+        "ability_2": false,
+        "ability_3": false,
+        "stat_1": true,
+        "stat_2": false,
+        "stat_3": false,
+        "stat_4": false,
+        "stat_5": false,
+        "stat_6": false,
+        "stat_7": false,
+        "stat_8": false,
+        "stat_9": false,
+        "stat_10": false
+      }
+    }
+  ]
+}
